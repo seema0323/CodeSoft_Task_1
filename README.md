@@ -1,4 +1,4 @@
-# 🎯 Number Guessing Game (C++ OOP)
+# 🎯 Number Guessing Game 
 
 ## 📌 Overview
 A simple console-based **Number Guessing Game** built using **Object-Oriented Programming (OOP)** in C++.  
